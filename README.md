@@ -13,3 +13,4 @@ Pick the shell you want to use.
 zsh/bash etc. 
 
 more instructions here https://gist.github.com/kevin-smets/8568070 
+https://github.com/Powerlevel9k/powerlevel9k/wiki/Show-Off-Your-Config
