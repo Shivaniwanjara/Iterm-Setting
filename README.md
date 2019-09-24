@@ -14,3 +14,8 @@ zsh/bash etc.
 
 more instructions here https://gist.github.com/kevin-smets/8568070 
 https://github.com/Powerlevel9k/powerlevel9k/wiki/Show-Off-Your-Config
+https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961 
+
+
+How to use Tmux for iterm 
+
