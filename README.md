@@ -11,3 +11,5 @@ And the content of the setting file in the file.
 Pick the shell you want to use. 
 
 zsh/bash etc. 
+
+more instructions here https://gist.github.com/kevin-smets/8568070 
